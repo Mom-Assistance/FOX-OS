@@ -1,0 +1,68 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>listening.wav</file>
+        <file>notlistening.wav</file>
+        <file>ok.wav</file>
+        <file>what.wav</file>
+        <file>volfeedback.wav</file>
+        <file>click.wav</file>
+        <file>charging.wav</file>
+        <file>media-remove.wav</file>
+        <file>media-insert.wav</file>
+        <file>screenshot.wav</file>
+        <file>powerlow.wav</file>
+    </qresource>
+    <qresource prefix="/icons/dark">
+        <file>images/dark/flight.svg</file>
+        <file>images/dark/battery-charged.svg</file>
+        <file>images/dark/battery-charging.svg</file>
+        <file>images/dark/battery-not-charging.svg</file>
+        <file>images/dark/battery-low.svg</file>
+        <file>images/dark/battery-critical.svg</file>
+        <file>images/dark/connect.svg</file>
+        <file>images/dark/disconnect.svg</file>
+    </qresource>
+    <qresource prefix="/icons/light">
+        <file>images/light/flight.svg</file>
+        <file>images/light/battery-charged.svg</file>
+        <file>images/light/battery-charging.svg</file>
+        <file>images/light/battery-not-charging.svg</file>
+        <file>images/light/battery-low.svg</file>
+        <file>images/light/battery-critical.svg</file>
+        <file>images/light/connect.svg</file>
+        <file>images/light/disconnect.svg</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icon.svg</file>
+        <file>thewave.svg</file>
+        <file>blank.svg</file>
+    </qresource>
+    <qresource prefix="/icons/flight">
+        <file alias="cancelled.svg">flight/cancelled.svg</file>
+        <file alias="unknown.svg">flight/unknown.svg</file>
+    </qresource>
+    <qresource prefix="/sounds/tones">
+        <file alias="happybee">happybee.ogg</file>
+        <file alias="playinginthedark">playinginthedark.ogg</file>
+        <file alias="icecream">icecream.ogg</file>
+        <file alias="party">party.ogg</file>
+        <file alias="saltyditty">saltyditty.ogg</file>
+    </qresource>
+    <qresource prefix="/backgrounds">
+        <file alias="blueprint">backgrounds/blueprint</file>
+        <file alias="triangles">backgrounds/triangles</file>
+        <file alias="triplecircle">backgrounds/triplecircle</file>
+        <file alias="shatter">backgrounds/shatter</file>
+        <file alias="slice">backgrounds/slice</file>
+        <file alias="nav">backgrounds/nav</file>
+        <file alias="leftwaves">backgrounds/leftwaves</file>
+        <file alias="arrows">backgrounds/arrows.svg</file>
+        <file alias="beach">backgrounds/beach.svg</file>
+        <file alias="waves">backgrounds/waves.svg</file>
+    </qresource>
+    <qresource prefix="/sounds/notifications">
+        <file alias="tripleping.wav">notifications/tripleping.wav</file>
+        <file alias="upsidedown.wav">notifications/upsidedown.wav</file>
+        <file alias="echo.wav">notifications/echo.wav</file>
+    </qresource>
+</RCC>
